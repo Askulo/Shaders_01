@@ -53,4 +53,4 @@ Writing custom shaders lets you:
 
 ---
 
-> **Next step:** Want minimal GLSL examples (vertex + fragment) or usage notes for Three.js / raw WebGL to include in this README?
+
